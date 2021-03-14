@@ -27,5 +27,5 @@ Descent means falling
 - Again, start from step 2 with new values of W and b and repeat the same for ‘n’ no. of iterations. With each iteration, the value of cost will progressively decrease and eventually end up with flat value / convergence.
 
 **What is Cost Function in Gredient Descent ?**
-Cost function in gredient descent is a function which minimize the parameters over our dataset like mean square error 1/n *Sum(Actual y - Predicted y)^2
+- Cost function in gredient descent is a function which minimize the parameters over our dataset like mean square error 1/n *Sum(Actual y - Predicted y)^2
 
